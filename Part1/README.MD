@@ -1,4 +1,4 @@
-# Exercises 1.1.-1.2.
+# Exercises 1.1.-1.14.
 
 One very functional file structure for the submission repository is as follows:
 
