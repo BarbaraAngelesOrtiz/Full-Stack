@@ -10,3 +10,13 @@ The course is worth 5-14 credits, and the content is the same as in the Full sta
 Partners and affiliates of the course include Houston Inc, Terveystalo, Elisa, Unity Technologies and Konecranes. See here for guest lectures on course-related topics given by various experts from our partners and affiliates.
 
 Participants are expected to have good programming skills, basic knowledge of web programming and databases, and to know the basics of working with the Git version-control system. You are also expected to have perseverance and the ability for independent problem solving and information seeking.
+
+  ## Author
+**Bárbara Ángeles Ortiz**
+
+ <img src="https://avatars.githubusercontent.com/u/105976212?v=4" width=115><br><sub></sub>
+
+[LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
+
+![Status](https://img.shields.io/badge/status-finished-brightgreen)
+
